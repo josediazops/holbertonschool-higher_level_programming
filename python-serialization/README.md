@@ -14,6 +14,8 @@ Serialization, closely related to marshaling, specifically involves converting d
 | File | Description |
 | `task_00_basic_serialization.py` | Basic JSON serialization in Python. |
 | `task_01_pickle.py` | Custom class serialized and deserialized with pickle. |
+| `task_02_csv.py` | Convert CSV data to JSON using csv and json. |
+
 
 ## How to run
 
